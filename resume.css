@@ -1,0 +1,51 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+b{
+ color: blue;
+}
+h6{
+    padding-left: 3%;
+}
+p{
+    color: rgb(49, 45, 45);
+}
+.leftSection{
+    display: inline-block;
+    height: 100%;
+    width: 60%;
+    padding-left: 6%;
+}
+.name{
+    padding-bottom: 8%;
+}
+.experience p{
+    padding-left: 3%;
+}
+.education p{
+    padding-left: 3%;
+}
+.project p{
+    padding-left: 3%;
+}
+.rightSection{
+    display: inline-block;
+    height: 100%;
+    width: 30%;
+    padding-left: 2%;
+}
+.contect{
+    padding-bottom: 20%;
+}
+.skill p{
+    padding-left: 15%;
+}
+.language p{
+    padding-left: 15%;
+}
+.practice p{
+    padding-left: 15%;
+}
+.project{
+    padding-bottom: 10%;
+}
